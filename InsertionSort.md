@@ -22,7 +22,9 @@ O(n^2)
   
   Dizinin ortalarında olduğu için average case kapsamındadır.
 
+```
 * [7,3,5,8,2,9,4,15,6] dizisinin ilk 4 adımını yazınız.
+```
 1. 7 ve 2 yer değiştirir. [2,3,5,8,7,9,4,15,6]
 2. Sağdaki stünda 3 en küçük sayı olduğu için bir sonraki stüna geçilir.
 3. 5 ve 4 yer değiştirir. [2,3,4,8,7,9,5,15,6]
